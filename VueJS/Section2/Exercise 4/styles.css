@@ -13,3 +13,14 @@
   background-color: gray;
   width: 50px !important;
 }
+
+.anotherClass {
+  background-color: aqua;
+}
+
+.float {
+  float: right;
+}
+.visible {
+  height: 200px;
+}
